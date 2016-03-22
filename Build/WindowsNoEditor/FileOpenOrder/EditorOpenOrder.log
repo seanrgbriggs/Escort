@@ -1,4 +1,4 @@
-"C:/Users/vincent/Documents/Escort/Escort/Escort.uproject" 1
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Escort.uproject" 1
 "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
 "../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin" 3
 "../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 4
@@ -76,48 +76,48 @@
 "C:/Users/vincent/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/Manifest.ini" 76
 "../../../Engine/Config/Base.ini" 77
 "../../../Engine/Config/BaseEngine.ini" 78
-"C:/Users/vincent/Documents/Escort/Escort/Config/DefaultEngine.ini" 79
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Config/DefaultEngine.ini" 79
 "../../../Engine/Config/Windows/WindowsEngine.ini" 80
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/Engine.ini" 81
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 82
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/Engine.ini" 81
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 82
 "../../../Engine/Config/BaseGame.ini" 83
-"C:/Users/vincent/Documents/Escort/Escort/Config/DefaultGame.ini" 84
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/Game.ini" 85
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 86
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Config/DefaultGame.ini" 84
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/Game.ini" 85
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 86
 "../../../Engine/Config/BaseInput.ini" 87
-"C:/Users/vincent/Documents/Escort/Escort/Config/DefaultInput.ini" 88
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/Input.ini" 89
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 90
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Config/DefaultInput.ini" 88
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/Input.ini" 89
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 90
 "../../../Engine/Config/BaseEditor.ini" 91
-"C:/Users/vincent/Documents/Escort/Escort/Config/DefaultEditor.ini" 92
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/Editor.ini" 93
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 94
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Config/DefaultEditor.ini" 92
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/Editor.ini" 93
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 94
 "../../../Engine/Config/BaseEditorPerProjectUserSettings.ini" 95
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/EditorPerProjectUserSettings.ini" 96
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini" 97
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/EditorPerProjectUserSettings.ini" 96
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini" 97
 "../../../Engine/Config/BaseEditorSettings.ini" 98
 "C:/Users/vincent/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/EditorSettings.ini" 99
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini" 100
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini" 100
 "../../../Engine/Config/BaseEditorLayout.ini" 101
 "C:/Users/vincent/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/EditorLayout.ini" 102
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 103
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 103
 "../../../Engine/Config/BaseEditorKeyBindings.ini" 104
 "C:/Users/vincent/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/EditorKeyBindings.ini" 105
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 106
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 106
 "../../../Engine/Config/BaseCompat.ini" 107
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/Compat.ini" 108
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 109
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/Compat.ini" 108
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 109
 "../../../Engine/Config/BaseLightmass.ini" 110
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/Lightmass.ini" 111
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 112
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/Lightmass.ini" 111
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 112
 "../../../Engine/Config/BaseScalability.ini" 113
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/Scalability.ini" 114
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 115
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/GameUserSettings.ini" 116
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 117
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/Scalability.ini" 114
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 115
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/GameUserSettings.ini" 116
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 117
 "../../../Engine/Config/BaseDeviceProfiles.ini" 118
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/DeviceProfiles.ini" 119
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 120
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/DeviceProfiles.ini" 119
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 120
 "../../../Engine/Config/ConsoleVariables.ini" 121
 "..\..\..\Engine\Content\Internationalization\icudt53l\es.res" 122
 "..\..\..\Engine\Content\Internationalization\icudt53l\ja.res" 123
@@ -380,10 +380,10 @@
 "../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 380
 "../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 381
 "../../../Engine/Content/EditorResources/S_Actor.uasset" 382
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/TemplateDefs.ini" 383
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini" 384
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/GameplayTags.ini" 385
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" 386
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/TemplateDefs.ini" 383
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini" 384
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/GameplayTags.ini" 385
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" 386
 "../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 387
 "../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 388
 "../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 389
@@ -450,8 +450,8 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 450
 "../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 451
 "C:/Users/vincent/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/SourceControlSettings.ini" 452
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 453
-"C:/Users/vincent/Documents/Escort/Escort/Saved/Config/Windows/SourceControlSettings.ini" 454
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 453
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Config/Windows/SourceControlSettings.ini" 454
 "../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset" 455
 "../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TorusMesh.uasset" 456
 "../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_HandColor.uasset" 457
@@ -472,404 +472,487 @@
 "../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 472
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 473
 "../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 474
-"../../../../../../Users/vincent/Documents/Escort/Escort/Intermediate/CachedAssetRegistry.bin" 475
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/Character/Player.uasset" 476
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/Game/EscortGameMode.uasset" 477
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/Materials/Cool.uasset" 478
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Maps/Minimal_Default.umap" 479
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Intermediate/CachedAssetRegistry.bin" 475
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Meshes/strong.uasset" 476
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Maps/Minimal_Default.umap" 477
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap" 478
+"C:/Users/vincent/Documents/Unreal Projects/Escort/Saved/Cooked/WindowsNoEditor/Escort/CookedIniVersion.txt" 479
 "../../../Engine/Config/HTML5/HTML5Engine.ini" 480
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 481
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 482
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 483
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 484
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 485
-"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 486
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 487
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 488
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 489
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 490
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 491
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 492
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 493
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 494
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 495
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 496
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 497
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 498
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 499
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 500
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 501
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 502
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 503
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 504
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 505
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 506
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 507
-"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 508
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 509
-"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 510
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 511
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 512
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 513
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 514
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 515
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 516
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 517
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 518
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 519
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 520
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 521
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 522
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 523
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 524
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 525
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 526
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 527
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 528
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 529
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 530
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 531
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 532
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 533
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 534
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 535
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 536
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 537
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 538
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 539
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Fire_Sparks01.uasset" 540
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Fire01_Cue.uasset" 541
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Fire01.uasset" 542
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Explosion_Cue.uasset" 543
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Explosion01.uasset" 544
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Explosion02.uasset" 545
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Collapse_Cue.uasset" 546
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Collapse01.uasset" 547
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Collapse02.uasset" 548
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 549
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Basic_Wall.uasset" 550
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 551
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 552
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 553
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/Wall_500x500.uasset" 554
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/Wall_400x400.uasset" 555
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/Wall_400x300.uasset" 556
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/Wall_400x200.uasset" 557
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 558
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_AssetPlatform.uasset" 559
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/Pillar_50x500.uasset" 560
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Architecture/Floor_400x400.uasset" 561
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Basic_Floor.uasset" 562
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/4/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_205BF5274A1DF46BE4BE3987732395B__AA1250C0578C996B3161EB38BA17D36D442DE066.udd" 563
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/1/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF4F2E3764__8D867BB860DB5951ADF593BDD2C20D63F0B6F69C.udd" 564
-"C:/Users/vincent/AppData/Local/Temp/UnrealShaderWorkingDir/434A17DE42F1233726EC7CBDB299772E/1/WorkerOutputOnly.out" 565
-"C:/Users/vincent/AppData/Local/Temp/UnrealShaderWorkingDir/434A17DE42F1233726EC7CBDB299772E/0/WorkerOutputOnly.out" 566
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/P_Fire.uasset" 567
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 568
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 569
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 570
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 571
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Water_N.uasset" 572
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 573
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 574
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 575
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 576
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 577
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 578
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_Stairs.uasset" 579
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_Shelf.uasset" 580
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_Shelf.uasset" 581
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Shelf_M.uasset" 582
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Shelf_N.uasset" 583
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_Rock.uasset" 584
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_Rock.uasset" 585
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 586
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 587
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 588
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_RockMesh_M.uasset" 589
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_RockMesh_N.uasset" 590
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_PillarFrame300.uasset" 591
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_Frame.uasset" 592
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Frame_M.uasset" 593
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Frame_N.uasset" 594
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_PillarFrame.uasset" 595
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 596
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 597
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 598
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 599
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_Lamp.uasset" 600
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Lamp_M.uasset" 601
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Lamp_N.uasset" 602
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 603
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_GlassWindow.uasset" 604
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Glass.uasset" 605
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_DoorFrame.uasset" 606
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_Door.uasset" 607
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_Door.uasset" 608
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Door_M.uasset" 609
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Door_N.uasset" 610
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_Couch.uasset" 611
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_Chair.uasset" 612
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Chair_M.uasset" 613
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Chair_N.uasset" 614
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_CornerFrame.uasset" 615
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_Chair.uasset" 616
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_Bush.uasset" 617
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_Bush.uasset" 618
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Bush_D.uasset" 619
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Bush_N.uasset" 620
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/MaterialSphere.uasset" 621
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/Materials/M_Spark.uasset" 622
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Spark_Core.uasset" 623
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 624
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 625
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 626
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 627
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 628
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 629
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/Materials/M_Burst.uasset" 630
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Burst_M.uasset" 631
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/P_Steam_Lit.uasset" 632
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 633
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/P_Explosion.uasset" 634
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 635
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Steam01_Cue.uasset" 636
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Steam01.uasset" 637
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Starter_Wind06.uasset" 638
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Starter_Wind05.uasset" 639
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 640
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Starter_Music01.uasset" 641
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Starter_Birds01.uasset" 642
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 643
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Smoke01_Cue.uasset" 644
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Smoke01.uasset" 645
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Light02_Cue.uasset" 646
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Light02.uasset" 647
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Light01_Cue.uasset" 648
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Light01.uasset" 649
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 650
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 651
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 652
-"../../../Engine/Content/Maps/Entry.umap" 653
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 654
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 655
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 656
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 657
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 658
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 659
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 660
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 661
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 662
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 663
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 664
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_MacroVariation.uasset" 665
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 666
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 667
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Statue_M.uasset" 668
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Statue_N.uasset" 669
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_Statue.uasset" 670
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_Statue.uasset" 671
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_TableRound.uasset" 672
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/Materials/M_TableRound.uasset" 673
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_TableRound_M.uasset" 674
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_TableRound_N.uasset" 675
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_FB474BB34EF94841C6B5A2BB471D68EC__1_0_13123_0.udd" 676
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_51B230E9404ECB1A7EDF1285414A8AFA__1_0_13123_0.udd" 677
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/2/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_578568214C583F04E5A86CBC8A97E2E4__1_0_13123_0.udd" 678
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/2/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_88AA119B4EFC2A88D87488B7E20A61A8__1_0_13123_0.udd" 679
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 680
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 681
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Water_Lake.uasset" 682
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 683
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Tech_Panel.uasset" 684
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 685
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 686
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 687
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 688
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 689
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 690
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 691
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 692
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 693
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 694
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 695
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 696
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Rock_Slate.uasset" 697
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 698
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 699
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 700
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 701
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 702
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 703
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 704
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 705
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 706
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Metal_Steel.uasset" 707
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 708
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Metal_Rust.uasset" 709
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 710
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 711
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Metal_Gold.uasset" 712
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 713
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Metal_Copper.uasset" 714
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 715
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 716
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 717
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Ground_Moss.uasset" 718
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 719
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 720
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 721
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 722
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 723
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Ground_Grass.uasset" 724
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 725
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 726
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 727
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 728
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 729
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 730
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 731
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 732
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 733
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 734
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 735
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 736
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 737
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 738
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 739
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 740
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 741
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 742
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 743
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 744
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 745
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Gradinet_01.uasset" 746
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 747
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 748
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 749
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 750
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 751
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 752
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 753
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 754
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 755
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 756
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 757
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 758
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 759
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 760
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 761
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 762
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 763
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 764
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 765
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 766
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 767
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 768
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 769
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 770
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 771
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 772
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 773
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 774
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 775
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 776
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 777
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/P_Sparks.uasset" 778
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 779
-"C:/Users/vincent/AppData/Local/Temp/UnrealShaderWorkingDir/434A17DE42F1233726EC7CBDB299772E/3/WorkerOutputOnly.out" 780
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/P_Smoke.uasset" 781
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 782
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 783
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 784
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Cone.uasset" 785
-"C:/Users/vincent/AppData/Local/Temp/UnrealShaderWorkingDir/434A17DE42F1233726EC7CBDB299772E/2/WorkerOutputOnly.out" 786
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Cube.uasset" 787
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Props/SM_WindowFrame.uasset" 788
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 789
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Maps/StarterMap.umap" 790
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 791
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 792
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 793
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Water_Ocean.uasset" 794
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Water_M.uasset" 795
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 796
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 797
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 798
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 799
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 800
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Game/EscortGameMode.uasset" 482
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Player.uasset" 483
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Animation/weak_anim.uasset" 484
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Animation/weak_movement.uasset" 485
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Animation/weak_idle.uasset" 486
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Meshes/weak_Skeleton.uasset" 487
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Animation/weak_strafe_left.uasset" 488
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Animation/weak_strafe_right.uasset" 489
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Animation/weak_walk.uasset" 490
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Animation/weak_walk_back.uasset" 491
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Meshes/weak.uasset" 492
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Materials/Colored_Metal.uasset" 493
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Textures/MetalPainted0121_1_S.uasset" 494
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Materials/DullMetal.uasset" 495
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Textures/MetalRivets0027_1_M.uasset" 496
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Materials/Flex.uasset" 497
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Textures/MetalBare0162_S.uasset" 498
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Materials/Joint.uasset" 499
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Textures/Joint.uasset" 500
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Materials/Joint2.uasset" 501
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Materials/Light.uasset" 502
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Materials/Segments.uasset" 503
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Textures/RooftilesTiles0024_1_S.uasset" 504
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Textures/SegmentNormals.uasset" 505
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Meshes/weak_fp.uasset" 506
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/7/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUFDF649638__45432E9DC5BC23F6AFC4A0C6CC35E77A20D6046E.udd" 507
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/2/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUFC0E152A4__62585DE10651FC1A5B498B8FDA72863A9356951F.udd" 508
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/3/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF6095D3AB__310B0C184208769BBB521CEE5F9970BF6D36C12B.udd" 509
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/9/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF3B730B40__25395A2E1289F01C1CF577091E484344C3F7C11A.udd" 510
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/3/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF672DBAEA__3A2A42FDE017A43CEBE0E34A00B4E0E5828F1797.udd" 511
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/2/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF3035AD42__C7FCE1500A56F30EF604F24F1F997919824692DD.udd" 512
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/3/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF333056EE__87608FAF26BDD3DD935F21A715F57E780CA587B9.udd" 513
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 514
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 515
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 516
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 517
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 518
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 519
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 520
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 521
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 522
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 523
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 524
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 525
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 526
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 527
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 528
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 529
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 530
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 531
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 532
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 533
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 534
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 535
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 536
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 537
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 538
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 539
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 540
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 541
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 542
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 543
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 544
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 545
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 546
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 547
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 548
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 549
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 550
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 551
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 552
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 553
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 554
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 555
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 556
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 557
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 558
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 559
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 560
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 561
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 562
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 563
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 564
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 565
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 566
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 567
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 568
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 569
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 570
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 571
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 572
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 573
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 574
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 575
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 576
+"C:/Users/vincent/AppData/Local/Temp/UnrealShaderWorkingDir/B4911C194472584170B121A7FF4F82D8/0/WorkerOutputOnly.out" 577
+"C:/Users/vincent/AppData/Local/Temp/UnrealShaderWorkingDir/B4911C194472584170B121A7FF4F82D8/4/WorkerOutputOnly.out" 578
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 579
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 580
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 581
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 582
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 583
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 584
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 585
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_MacroVariation.uasset" 586
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 587
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 588
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 589
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 590
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Basic_Wall.uasset" 591
+"C:/Users/vincent/AppData/Local/Temp/UnrealShaderWorkingDir/B4911C194472584170B121A7FF4F82D8/1/WorkerOutputOnly.out" 592
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Basic_Floor.uasset" 593
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_AssetPlatform.uasset" 594
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 595
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 596
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Starter_Birds01.uasset" 597
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Starter_Wind05.uasset" 598
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Starter_Wind06.uasset" 599
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Smoke01_Cue.uasset" 600
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Smoke01.uasset" 601
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Light02_Cue.uasset" 602
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Light02.uasset" 603
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Light01_Cue.uasset" 604
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Light01.uasset" 605
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 606
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Fire_Sparks01.uasset" 607
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Fire01_Cue.uasset" 608
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Fire01.uasset" 609
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Explosion_Cue.uasset" 610
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Explosion01.uasset" 611
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Explosion02.uasset" 612
+"C:/Users/vincent/AppData/Local/Temp/UnrealShaderWorkingDir/B4911C194472584170B121A7FF4F82D8/2/WorkerOutputOnly.out" 613
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Collapse_Cue.uasset" 614
+"C:/Users/vincent/AppData/Local/Temp/UnrealShaderWorkingDir/B4911C194472584170B121A7FF4F82D8/3/WorkerOutputOnly.out" 615
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Collapse01.uasset" 616
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Collapse02.uasset" 617
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 618
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 619
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 620
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 621
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/Wall_500x500.uasset" 622
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/Wall_400x400.uasset" 623
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/Wall_400x300.uasset" 624
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/Wall_400x200.uasset" 625
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 626
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/Pillar_50x500.uasset" 627
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Architecture/Floor_400x400.uasset" 628
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/4/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_205BF5274A1DF46BE4BE3987732395B__AA1250C0578C996B3161EB38BA17D36D442DE066.udd" 629
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_205BF5274A1DF46BE__65D5093F47FF4D841845B265C25B5E3432091A9C.udd" 630
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Materials/Cool.uasset" 631
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/0/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUFCC41705D__A707BE3A387F046E6184B678FE160AA5779C6D0C.udd" 632
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 633
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Tube.uasset" 634
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 635
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 636
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 637
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Trim.uasset" 638
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Torus.uasset" 639
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Sphere.uasset" 640
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 641
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Plane.uasset" 642
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 643
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 644
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Pipe.uasset" 645
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 646
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 647
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Cube.uasset" 648
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Cone.uasset" 649
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_TableRound.uasset" 650
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_TableRound_M.uasset" 651
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_TableRound_N.uasset" 652
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 653
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Statue_M.uasset" 654
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Statue_N.uasset" 655
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_PillarFrame300.uasset" 656
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_Frame.uasset" 657
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Frame_M.uasset" 658
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Frame_N.uasset" 659
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_PillarFrame.uasset" 660
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 661
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 662
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 663
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 664
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_Lamp.uasset" 665
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Lamp_M.uasset" 666
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Lamp_N.uasset" 667
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 668
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_GlassWindow.uasset" 669
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Glass.uasset" 670
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_DoorFrame.uasset" 671
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_Door.uasset" 672
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_Door.uasset" 673
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Door_M.uasset" 674
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Door_N.uasset" 675
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_Couch.uasset" 676
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_Chair.uasset" 677
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Chair_M.uasset" 678
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Chair_N.uasset" 679
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_CornerFrame.uasset" 680
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_Chair.uasset" 681
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_Bush.uasset" 682
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_Bush.uasset" 683
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Bush_D.uasset" 684
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Bush_N.uasset" 685
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/MaterialSphere.uasset" 686
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/Materials/M_Spark.uasset" 687
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Spark_Core.uasset" 688
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 689
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 690
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 691
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 692
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 693
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 694
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 695
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Water_N.uasset" 696
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 697
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 698
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 699
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 700
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 701
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 702
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 703
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/Materials/M_Burst.uasset" 704
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Burst_M.uasset" 705
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/P_Steam_Lit.uasset" 706
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 707
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 708
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/9/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUFDF649638__A58048D47D4D8512ED2F650A8E4F06640756D379.udd" 709
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/0/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUFC0E152A4__CC080B0C274D1467D9AAC8E025902A17E8713D5D.udd" 710
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/0/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF6095D3AB__7312525191F69AC4543060CF11434231BBA84DC9.udd" 711
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF3B730B40__57024E09B092A370C0C23B9919002CABF6B4709E.udd" 712
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/9/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF672DBAEA__DA52A8812F538563A608C2C7392E09442427DC46.udd" 713
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/8/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF3035AD42__F6765F57C94A33936678209126D96613F44953BC.udd" 714
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/1/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF333056EE__202F3D12E02E6D682CC7F63CC5782FB041113D20.udd" 715
+"../../../Engine/Content/Maps/Entry.umap" 716
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 717
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 718
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 719
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 720
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 721
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 722
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 723
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 724
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 725
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 726
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 727
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 728
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 729
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Gradinet_01.uasset" 730
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 731
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 732
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 733
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 734
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/Character/Meshes/strong_Skeleton.uasset" 735
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_Statue.uasset" 736
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_Statue.uasset" 737
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_TableRound.uasset" 738
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_CA01E0384CDB64F7ADC7F39FC163EB86__1_0_13123_0.udd" 739
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_1A9B850C488FB2DE6BA82A9A11355703__1_0_13123_0.udd" 740
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_AF21B02843A6982E5C264E8793FCF40D__1_0_13123_0.udd" 741
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_04BA04094BAFCF379BDCEC889DEFDFE9__1_0_13123_0.udd" 742
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_E37AEE754A486CAF871B05A986FFF438__1_0_13123_0.udd" 743
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_307804544C4DC55B4D8288976C845FC1__1_0_13123_0.udd" 744
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/2/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_E64ACAB147596F98377C528FD7FCC6CD__1_0_13123_0.udd" 745
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/REFL_ENC_96DFC022836B48889143E9DF484C3296_2E4A1DFE41E9833F9382FE937ADB03AA.udd" 746
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/8/REFL_ENC_96DFC022836B48889143E9DF484C3296_55CF29A24A3D644B56FE989017A03DFA.udd" 747
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C23422A04C5672C66BA5B297E3040__BD53637D6D38D21F624012BA7D3D6096DEEA7BA6.udd" 748
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_32D0AFB743B14F0E993A5BB4DD4D6__C05B77663E0E9AB4F58CD10B36B215168D810100.udd" 749
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C23422A04C5672C66BA5B297E3040__9BD19E0399EDD110E833341D7EB48257F7241F9D.udd" 750
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_8CDB00D2411AD269EBED5686F0F4B9EC__D0AE04B5B7E01DFAE2DD771ABFC46815246A3D04.udd" 751
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C23422A04C5672C66BA5B297E3040__CDEE812C78C9E28295B8223456FFB5947C05ECCE.udd" 752
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_8CDB00D2411AD269EBED5686F0F4B9EC__1C629678ED7F9CB76E2AF079C746C45873414BA3.udd" 753
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C23422A04C5672C66BA5B297E3040__F3BD4654930DC324EC4FEDEE205C7BBA58EB76CB.udd" 754
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_D5664EA6459B3401956AFA9F5F315564__AB144A87EAE94C7BE5016B429105252575027559.udd" 755
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_826CAB764F3503527E17618D360791B4_0__93AF04C2212563D70AF1B9A2AE6266C153C5D31A.udd" 756
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_8CDB00D2411AD269EBED5686F0F4B9EC__328A7560AA4D48D989B2DD8B71CD30D21E9EFF40.udd" 757
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_826CAB764F3503527E17618D360791B4_0__CCF83921AB81BB012F6906200831F204A5E06018.udd" 758
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E9EFCEF04CBC0BE4CF459F9C56535334_0__21C8AE9140A1AA042B53B3C225966E2197C750FC.udd" 759
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_8CDB00D2411AD269EBED5686F0F4B9EC__7ED3E53D5238BFB0A12631D61FBAC28A525CFC0C.udd" 760
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3C1638EE483345F54B934A850DD4F__069371DB7499EACEDE96437017CA2558D1EE2BA4.udd" 761
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E5037950436D99A2AC2EA8B0B681B__797B4D7AF2F7D1E8B63A82B08F6579E51DCDE58C.udd" 762
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_826CAB764F3503527E17618D360791B4_0__EF5FB1E7BA3AEDC21242DB185A4125320D1D9B7C.udd" 763
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_826CAB764F3503527E17618D360791B4_0__8DF0270B4BDD194389FA08058165407949155177.udd" 764
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E5037950436D99A2AC2EA8B0B681B__E40C0623A297D8915EC83391AE5E5B1C45B78F42.udd" 765
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E5037950436D99A2AC2EA8B0B681B__68F62C5DFF6C43AE63CD46A7A3BF301ED3664D89.udd" 766
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E5037950436D99A2AC2EA8B0B681B__CBF482DE3F89C0E8AF39FB2D7EA076F3FDE295EE.udd" 767
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 768
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 769
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Water_M.uasset" 770
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Maps/Advanced_Lighting.umap" 771
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 772
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 773
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 774
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 775
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 776
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 777
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 778
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 779
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 780
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 781
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 782
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 783
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 784
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 785
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 786
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 787
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 788
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 789
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 790
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 791
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Shelf_M.uasset" 792
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 793
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Wood_Pine.uasset" 794
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 795
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 796
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 797
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Wood_Oak.uasset" 798
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 799
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 800
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 801
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Wood_Oak.uasset" 802
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 803
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 804
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Wood_Pine.uasset" 805
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 806
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 807
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 808
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 809
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 810
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 811
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 812
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Sphere.uasset" 813
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_205BF5274A1DF46BE__65D5093F47FF4D841845B265C25B5E3432091A9C.udd" 814
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 815
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 816
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 817
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 818
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 819
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 820
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 821
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 822
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 823
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 824
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 825
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 826
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 827
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 828
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 829
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 830
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Pipe.uasset" 831
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 832
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 833
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 834
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 835
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 836
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 837
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Tube.uasset" 838
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 839
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 840
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 841
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Trim.uasset" 842
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Torus.uasset" 843
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Plane.uasset" 844
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 845
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 846
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 847
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 848
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 849
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 850
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 851
-"../../../../../../Users/vincent/Documents/Escort/Escort/Content/StarterContent/Maps/Advanced_Lighting.umap" 852
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 853
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 854
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 855
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 856
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 857
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 858
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 859
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/AUDIO_0002_0000_OGG_0001_45DA31D24952A30D9D59C58355781501.udd" 860
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/2/AUDIO_0002_0000_OGG_0001_8D7626FF43F2E7CB0FFEF1819DF93FE0.udd" 861
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/AUDIO_0002_0000_OGG_0001_B847AAD74080418C90B2E9968E18B4E9.udd" 862
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/0/AUDIO_0002_0000_OGG_0001_31D870B44577B2511571CA9564A08892.udd" 863
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/9/AUDIO_0002_0000_OGG_0001_1FFCDDAF446F0A5DB5CD53804F454EE7.udd" 864
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/5/AUDIO_0002_0000_OGG_0001_A6E12C614B66182215E77BB91A3CB1BF.udd" 865
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/AUDIO_0002_0000_OGG_0001_CD469D784CE5A724E7AC91BFEB714703.udd" 866
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/0/AUDIO_0002_0000_OGG_0001_E75A4F2F4CCFF455DEA17FBBE7ACBDC4.udd" 867
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/0/AUDIO_0002_0000_OGG_0001_832AA7D646A65116077516991F445FE9.udd" 868
-"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/0/AUDIO_0002_0000_OGG_0001_B61A001F430257DF762D2EB2E8AF2447.udd" 869
-"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 870
-"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 871
-"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 872
-"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 873
-"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 874
-"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 875
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 802
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 803
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 804
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Water_Ocean.uasset" 805
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 806
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Water_Lake.uasset" 807
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Tech_Panel.uasset" 808
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 809
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 810
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 811
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 812
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 813
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 814
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 815
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 816
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 817
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 818
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 819
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 820
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Rock_Slate.uasset" 821
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 822
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 823
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 824
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 825
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 826
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 827
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 828
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 829
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 830
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 831
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Metal_Steel.uasset" 832
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 833
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Metal_Rust.uasset" 834
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 835
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 836
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Metal_Gold.uasset" 837
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 838
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Metal_Copper.uasset" 839
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 840
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 841
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 842
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Ground_Moss.uasset" 843
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 844
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 845
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 846
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 847
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 848
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Ground_Grass.uasset" 849
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 850
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 851
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 852
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 853
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 854
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 855
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 856
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 857
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 858
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 859
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 860
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 861
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 862
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 863
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 864
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 865
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 866
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 867
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 868
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 869
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 870
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 871
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 872
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 873
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 874
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 875
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 876
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 877
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 878
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 879
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 880
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 881
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 882
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Steam01_Cue.uasset" 883
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Steam01.uasset" 884
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 885
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/P_Sparks.uasset" 886
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 887
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/P_Smoke.uasset" 888
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 889
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/P_Fire.uasset" 890
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 891
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/P_Explosion.uasset" 892
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 893
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 894
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Audio/Starter_Music01.uasset" 895
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_56D448C346C9DE46E58AE9BD06B1868B___65FC3C1CAD075482E33E028D2D9C75AD5573054B.udd" 896
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Maps/StarterMap.umap" 897
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 898
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 899
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 900
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 901
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 902
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 903
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_WindowFrame.uasset" 904
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 905
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 906
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 907
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 908
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 909
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 910
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 911
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_RockMesh_N.uasset" 912
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_Stairs.uasset" 913
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_Shelf.uasset" 914
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_Shelf.uasset" 915
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_Shelf_N.uasset" 916
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/SM_Rock.uasset" 917
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Props/Materials/M_Rock.uasset" 918
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Textures/T_RockMesh_M.uasset" 919
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 920
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 921
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 922
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 923
+"../../../../../../Users/vincent/Documents/Unreal Projects/Escort/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 924
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_265D49D240059659EF8023ADB8B3B__CA53B7CBE527C326E3241C619A2002FE6DCF9D2F.udd" 925
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 926
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 927
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 928
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_519240E14D5F2E6EA10BC69FCE7D6__ED204A4F4692892B8CEDDDBF081AEF6C068D725D.udd" 929
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_519240E14D5F2E6EA10BC69FCE7D6__32B620C394136BD6BB97B8605E2FDBDC0D7F9898.udd" 930
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_519240E14D5F2E6EA10BC69FCE7D6__0B43B59B01441EC470D93AFA9628FC7AE304442E.udd" 931
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_519240E14D5F2E6EA10BC69FCE7D6__5FD4E988F83E1824700404548D09FAAFB674C722.udd" 932
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_09B3E43A4545D8701A6587B47593B__5CA196D01E6ADFFBA52F327E365CCA672044C977.udd" 933
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_09B3E43A4545D8701A6587B47593B__BCEC3C3237164B4859BC4C6A11FE519E9170F34B.udd" 934
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_09B3E43A4545D8701A6587B47593B__C5068F6ABD3CC949257A77ACBD10364978D02DBE.udd" 935
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_09B3E43A4545D8701A6587B47593B__B8E5F2BF1DEC955188CE33BEA2F10FBA7D925278.udd" 936
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_09B3E43A4545D8701A6587B47593B__62AAF2B3B73BF60DB8542D6035C3330D1AD92E7E.udd" 937
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF7820F4358D04CAF1DC0B66AE4A__1841FACF876F09509391DAE7CC70C1661FD49480.udd" 938
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF7820F4358D04CAF1DC0B66AE4A__BEB02B8805891F146BCC680022AF5CA025B7DB58.udd" 939
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF7820F4358D04CAF1DC0B66AE4A__49F748D71D0A75691DC79D2DD960686B5BB78C0C.udd" 940
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF7820F4358D04CAF1DC0B66AE4A__A03C6A5D3AD3CF600C2DA74FE3B49127EFA6A141.udd" 941
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF7820F4358D04CAF1DC0B66AE4A__276033178352D5E0FEB1116E3D055C2A3A2FF850.udd" 942
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_70A2CDDD449FFA4BC8A0C49977053__3BD2B205BC8E66C0F3A138C8458890E167AF474E.udd" 943
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_70A2CDDD449FFA4BC8A0C49977053__3647F56EBCF2C3D9DC68D3D712AAC50EFCD3448D.udd" 944
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_70A2CDDD449FFA4BC8A0C49977053__C860D89F5B5DBF43A99920FD96D4692DDF1DF6AD.udd" 945
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_70A2CDDD449FFA4BC8A0C49977053__8E672564C41F6B726CAC2F1A3AF411E06CAB49C6.udd" 946
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_70A2CDDD449FFA4BC8A0C49977053__636950A68DD9D4B8D0C263D73A2440CC8CC5F6B6.udd" 947
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 948
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 949
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 950
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 951
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 952
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 953
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/5/AUDIO_0002_0000_OGG_0001_A6E12C614B66182215E77BB91A3CB1BF.udd" 954
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/9/AUDIO_0002_0000_OGG_0001_1FFCDDAF446F0A5DB5CD53804F454EE7.udd" 955
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/AUDIO_0002_0000_OGG_0001_45DA31D24952A30D9D59C58355781501.udd" 956
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/2/AUDIO_0002_0000_OGG_0001_8D7626FF43F2E7CB0FFEF1819DF93FE0.udd" 957
+"C:/Users/vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/AUDIO_0002_0000_OGG_0001_B847AAD74080418C90B2E9968E18B4E9.udd" 958
